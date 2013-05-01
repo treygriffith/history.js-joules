@@ -50,6 +50,10 @@
     "domready": ">=0.2"
   },
   "main": "history.js",
+  "repository" : {
+    "type": "git",
+    "url": "http://github.com/treygriffith/history.js-joules.git"
+  },
   "engines": {},
   "readme": "ERROR: No README.md file found!",
 }
