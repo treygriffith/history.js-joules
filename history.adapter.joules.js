@@ -11,7 +11,7 @@
   // Localise Globals
   var
     History = {},
-    $ = require('jquery-joules');
+    $ = require('jquery-joules'),
     bean = require('bean');
 
   // Check Existence
